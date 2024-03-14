@@ -31,11 +31,6 @@ python main.py --model LgrNet4_4
 ```
 
 
-To conduct voting testing, run
-```bash
-# please modify the msg accrodingly
-python voting.py --model pointMLP --msg demo
-```
 
 
 
