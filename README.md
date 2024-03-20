@@ -19,7 +19,6 @@ pip install pointnet2_ops_lib/.
 
 ## Useage
 
-### Classification ModelNet40
 **Train**: The dataset will be automatically downloaded, run following command to train.
 
 By default, it will create a folder named "checkpoints/{modelName}-{msg}-{randomseed}", which includes args.txt, best_checkpoint.pth, last_checkpoint.pth, log.txt, out.txt.
